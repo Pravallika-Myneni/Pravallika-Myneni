@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello, folks! <img src="wave.gif" width="30px">
+
 
 <!--
 **Pravallika-Myneni/Pravallika-Myneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
